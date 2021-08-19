@@ -1,0 +1,5 @@
+git init --initial-branch=main
+git add .
+git commit -m "Pushing my project to github"
+git branch -M main
+git push -u origin main
